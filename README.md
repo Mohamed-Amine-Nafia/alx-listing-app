@@ -1,3 +1,13 @@
+# ALX Listing App
+
+An Airbnb-like listing platform built with Next.js, TypeScript, and TailwindCSS.
+
+## 🧩 Project Goals
+
+This project aims to replicate the property listing page of Airbnb, focusing on clean design, reusable components, and responsive UI.
+
+## 🔧 Project Structure
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/pages/api-reference/create-next-app).
 
 ## Getting Started
